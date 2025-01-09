@@ -1,3 +1,9 @@
+# **Description**
+Bot searches Pinterest using desired tag and sends pictures of saved Pins in Discord guild in specific channel
+
+
+
+
 # **Terms of Service for pinterest-bot**
 ### 1. **Acceptance of Terms**
 By inviting, using, or interacting with pinterest-bot ("the Bot") on Discord, you agree to be bound by these Terms. If you do not agree to these Terms, do not use the Bot.
